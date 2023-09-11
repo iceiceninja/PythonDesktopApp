@@ -1,16 +1,3 @@
-#   Do the below commands if it is your first time running the program (Not Moira)
-#   Activate the virtual environment first...
-
-#   .\venv\Scripts\activate 
-
-#   Then download the PyQt package with the following command...
-
-#   python -m pip install pyqt6 
-
-#   BELOW IS HOW TO RUN THE PROGRAM
-
-#   python .\main.py
-
 # 1. Import QApplication and all the required widgets
 from PyQt6.QtWidgets import *
 from PyQt6.QtCore import Qt
